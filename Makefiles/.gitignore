@@ -1,0 +1,11 @@
+build/
+reports/*.txt
+!reports/.gitkeep
+*.o
+*.exe
+*.out
+*.stackdump
+.dist/
+Thumbs.db
+.DS_Store
+~$*.docx
